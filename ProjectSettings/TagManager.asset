@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - You
+  - Rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 132559077
+    locked: 0
+  - name: Gem
+    uniqueID: 1158165743
+    locked: 0
+  - name: MinusScoreItem
+    uniqueID: 839268183
+    locked: 0
+  - name: MultipleScoreItem
+    uniqueID: 1333230159
+    locked: 0
+  - name: SpeedBoost
+    uniqueID: 987490205
+    locked: 0
+  - name: TimeExtendItem
+    uniqueID: 1005981711
+    locked: 0
+  - name: Rock
+    uniqueID: 1833069337
+    locked: 0
